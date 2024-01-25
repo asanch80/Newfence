@@ -1,0 +1,15 @@
+/Users/darkapple/Projects/Fence_C/Fence_C/bin/Release/net7.0/Fence_C
+/Users/darkapple/Projects/Fence_C/Fence_C/bin/Release/net7.0/Fence_C.deps.json
+/Users/darkapple/Projects/Fence_C/Fence_C/bin/Release/net7.0/Fence_C.runtimeconfig.json
+/Users/darkapple/Projects/Fence_C/Fence_C/bin/Release/net7.0/Fence_C.dll
+/Users/darkapple/Projects/Fence_C/Fence_C/bin/Release/net7.0/Fence_C.pdb
+/Users/darkapple/Projects/Fence_C/Fence_C/obj/Release/net7.0/Fence_C.csproj.AssemblyReference.cache
+/Users/darkapple/Projects/Fence_C/Fence_C/obj/Release/net7.0/Fence_C.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darkapple/Projects/Fence_C/Fence_C/obj/Release/net7.0/Fence_C.AssemblyInfoInputs.cache
+/Users/darkapple/Projects/Fence_C/Fence_C/obj/Release/net7.0/Fence_C.AssemblyInfo.cs
+/Users/darkapple/Projects/Fence_C/Fence_C/obj/Release/net7.0/Fence_C.csproj.CoreCompileInputs.cache
+/Users/darkapple/Projects/Fence_C/Fence_C/obj/Release/net7.0/Fence_C.dll
+/Users/darkapple/Projects/Fence_C/Fence_C/obj/Release/net7.0/refint/Fence_C.dll
+/Users/darkapple/Projects/Fence_C/Fence_C/obj/Release/net7.0/Fence_C.pdb
+/Users/darkapple/Projects/Fence_C/Fence_C/obj/Release/net7.0/Fence_C.genruntimeconfig.cache
+/Users/darkapple/Projects/Fence_C/Fence_C/obj/Release/net7.0/ref/Fence_C.dll
